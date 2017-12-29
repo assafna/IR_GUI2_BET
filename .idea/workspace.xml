@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+=======
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
@@ -9,6 +12,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Indexer.java" afterPath="$PROJECT_DIR$/src/main/Indexer.java" />
 >>>>>>> b360be9778b29bdfeeb3be4e6b1722710f9bc634
     </list>
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -140,6 +144,13 @@
         <entry file="file://$PROJECT_DIR$/src/main/Indexer.java">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
+            <state relative-caret-position="666">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
             <state relative-caret-position="20125">
               <caret line="811" column="0" lean-forward="false" selection-start-line="811" selection-start-column="0" selection-end-line="811" selection-end-column="0" />
               <folding>
@@ -149,6 +160,7 @@
 =======
             <state relative-caret-position="296">
               <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
               <folding />
 >>>>>>> b360be9778b29bdfeeb3be4e6b1722710f9bc634
             </state>
@@ -529,21 +541,38 @@
       <workItem from="1513557760719" duration="38000" />
       <workItem from="1514535894246" duration="76000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1514537528408" duration="807000" />
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
       <workItem from="1514537989940" duration="134000" />
 =======
       <workItem from="1514537528408" duration="499000" />
 >>>>>>> b360be9778b29bdfeeb3be4e6b1722710f9bc634
+<<<<<<< HEAD
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
+=======
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="48969000" />
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
     <option name="totallyTimeSpent" value="48296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
 =======
     <option name="totallyTimeSpent" value="48661000" />
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="-14" width="3228" height="1738" extended-state="6" />
@@ -1111,6 +1140,13 @@
     <entry file="file://$PROJECT_DIR$/src/main/Indexer.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
+        <state relative-caret-position="666">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
         <state relative-caret-position="20125">
           <caret line="811" column="0" lean-forward="false" selection-start-line="811" selection-start-column="0" selection-end-line="811" selection-end-column="0" />
           <folding>
@@ -1120,6 +1156,7 @@
 =======
         <state relative-caret-position="296">
           <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+>>>>>>> aa2d0e366552f6c3a5acea3d162712c6267df81e
           <folding />
 >>>>>>> b360be9778b29bdfeeb3be4e6b1722710f9bc634
         </state>
