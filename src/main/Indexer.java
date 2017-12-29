@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
  * Created by USER on 12/4/2017.
  */
 public class Indexer {
-    private int amit1;
+    private int amit;
     //static data structures for docs and terms
     private static HashMap<String, Pair<Integer, Integer>> termsDictionary;
     private static HashMap<String, Pair<Integer, Integer>> finalTermsDictionary;
